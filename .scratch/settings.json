@@ -1,6 +1,6 @@
 {
   "theme": {
-    "mode": "system",
+    "mode": "light",
     "customLightColors": null,
     "customDarkColors": null
   },
@@ -10,10 +10,10 @@
   "textDirection": null,
   "editorWidth": null,
   "defaultNoteName": null,
-  "interfaceZoom": null,
+  "interfaceZoom": 1.0,
   "customEditorWidthPx": null,
   "ollamaModel": null,
-  "foldersEnabled": null,
+  "foldersEnabled": true,
   "ignoredPatterns": null,
   "customColorsLight": null,
   "customColorsDark": null
