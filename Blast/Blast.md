@@ -14,13 +14,14 @@ Stream URL for web and mobile
 
  
 
- 
+Production 
 
 - [ ] Email check on live stream 
-- [ ] How station notification is working
 - [ ] Set prefrence in station for 6hr
 - [ ] Send push notification after 6hr pass of stream
 - [ ] Put events of booking in web-player  
 
+- [ ] How station notification is working
+- [ ] Notification screen and API for guest user
 
  
